@@ -1,2 +1,2 @@
 # Cab-GPS-Tracking-System
-Develop for Android work like a Uber 
+Developed Android application that works similar to Uber. 
